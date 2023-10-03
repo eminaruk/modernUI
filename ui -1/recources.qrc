@@ -288,4 +288,8 @@
     <file>icons/zoom-in.svg</file>
     <file>icons/zoom-out.svg</file>
   </qresource>
+  <qresource prefix="images">
+    <file>chicago-bulls.ico</file>
+    <file>chicago-bulls-logo-8530A1093D-seeklogo.com.png</file>
+  </qresource>
 </RCC>
